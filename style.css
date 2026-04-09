@@ -1,0 +1,23 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+body {background-color: azure;
+border: 4px solid yellow;
+border-radius: 12px;
+}
+
+.p2 {text-align: center;
+    color: orchid;
+}
+
+ul {list-style-type: none;
+  background-color: papayawhip;
+  border: 4px solid olive;
+}
+li {display: inline;}
